@@ -4,6 +4,6 @@ Common Music 2.12 by Rick Taube.
 
 |---------+------------------------------------|
 | source  | git:https://github.com/ormf/cm.git |
-| commit  | 4d41481                            |
+| commit  | 4382b68                            |
 | systems | cm                                 |
 |---------+------------------------------------|
